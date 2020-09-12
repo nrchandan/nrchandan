@@ -13,8 +13,7 @@
 - 💬 Ask me about Microservices, Open Source, Software Composition, Security
 - 📫 How to reach me: chandan.gupta@gmail.com
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nrchandan&show_icons=true" alt="nrchandan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nrchandan&show_icons=true" alt="nrchandan" /></p>
 
 <!-- Languages -->
 <p align="center">
