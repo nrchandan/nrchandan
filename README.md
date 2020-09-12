@@ -2,8 +2,8 @@
 <h3 align="center">I am an Application Developer at ThoughtWorks</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/nrchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nrchandan" height="20" width="20" /></a>
-<a href="https://medium.com/@nrchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nrchandan" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/nrchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nrchandan" height="30" width="30" /></a>
+<a href="https://medium.com/@nrchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nrchandan" height="30" width="30" /></a>
 </p>
 
 - 🔭 I’m currently working with a US-based retail giant.
