@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
-<h3 align="center">Application Developer at ThoughtWorks</h3>
+<h3 align="center">I am an Application Developer at ThoughtWorks</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/nrchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nrchandan" height="20" width="20" /></a>
